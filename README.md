@@ -1,5 +1,5 @@
+🚧 This project is a WIP 🚧
 # Reading Time for Chrome
-
 Here's a very handy Chrome extension that will get you the reading time on any pages you're interested in reading.
 
 ![Screenhshot to take](./public/tbd "Reading Time Official Page")
