@@ -13,5 +13,5 @@ Reading Time is available only for Chrome for now, but we're working on a versio
 ## Stack
 TBD
 
-## Credit
-- Icons: <a href="https://www.flaticon.com/free-icons/study" title="study icons">Study icons created by Freepik - Flaticon</a>
+## 🙏 Credits
+- Icon book with timer created by [Freepik on Flaticon]("https://www.flaticon.com/free-icons/study").
