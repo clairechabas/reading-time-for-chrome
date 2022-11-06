@@ -14,4 +14,4 @@ Reading Time is available only for Chrome for now, but we're working on a versio
 TBD
 
 ## 🙏 Credits
-- Icon book with timer created by [Freepik on Flaticon]("https://www.flaticon.com/free-icon/book_8090315?term=reading%20time&page=1&position=9&page=1&position=9&related_id=8090315&origin=search#").
+- Icon book with timer created by [Freepik on Flaticon](https://www.flaticon.com/free-icon/book_8090315?term=reading%20time&page=1&position=9&page=1&position=9&related_id=8090315&origin=search#).
