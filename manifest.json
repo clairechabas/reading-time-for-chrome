@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "Reading Time",
+  "version": "1.0",
+  "description": "Know the reading time for any article you're interested in reading."
+}
