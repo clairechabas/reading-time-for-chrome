@@ -6,9 +6,12 @@ Here's a very handy Chrome extension that will get you the reading time on any p
 ### Roadmap
 🚧 This project is a WIP 🚧
 
-👩‍🔧 Next steps:
-- Improve reading time calculator, there are still pages on which it doesn't work well.
+**👩‍🔧 Next steps:**
+- Move this roadmap in `Projects` as a development board.
 - Display reading time in a popup on click on the extension icon in Chrome's tool bar.
+- Display a dynamic circle progress bar with the percentage of reading left. It should evolve as user scrolls.
+- Add a 'Display on screen' checkbox to let user choose to have the circle progress bar with reading time displayed on its screen (positioned at the top right corner to start, but could be changeable as option later).
+- Improve reading time calculator, there are still pages on which it doesn't work well.
 - Investigate why some pages manage to block the counter. And:
   - either find a work around,
   - or define a nice error for the user.
